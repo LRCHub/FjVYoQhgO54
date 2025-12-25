@@ -1,0 +1,25 @@
+# MONGOL800 – ヨロコビノウタ
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+ダーリン いつも歌ってくれる
+ヨロコビノウタ 今日も聞かせて
+感じるよ 見えないけれど
+あなたの鼓動 あなたの温もり
+また朝が来る ヨロコビノウタ
+二人で作る この広い空の下で
+ダーリン
+届けておくれ 二人の願い
+輝く結晶 この広い空の下で
+※ダーリンダーリン
+ダーリン I love you
+ダーリン I miss you
+I am waiting for you
+(※くり返し)
+Good night sleep night ダーリン
+It is my big pleasure song for ダーリン
+Darling
+Darling
+Darling
+```
