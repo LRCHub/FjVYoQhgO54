@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ヨロコビノウタ",
+  "base_artist": "MONGOL800",
+  "createdAt": "2025-12-25T00:51:48.634432Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヨロコビノウタ",
+      "artist": "MONGOL800",
+      "has_synced": false,
+      "path": "select/01_ヨロコビノウタ_MONGOL800.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヨロコビノウタ",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/02_ヨロコビノウタ_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヨロコビノウタ",
+      "artist": "イヤホンズ",
+      "has_synced": false,
+      "path": "select/03_ヨロコビノウタ_イヤホンズ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヨロコビノウタ",
+      "artist": "Earphones",
+      "has_synced": false,
+      "path": "select/04_ヨロコビノウタ_Earphones.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヨロコビノウタ",
+      "artist": "MONGOL 800",
+      "has_synced": false,
+      "path": "select/pl_01_ヨロコビノウタ_MONGOL_800.txt"
+    }
+  ]
+}
